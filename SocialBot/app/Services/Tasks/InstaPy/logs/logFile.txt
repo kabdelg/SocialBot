@@ -1,0 +1,80 @@
+
+Session started - 2017-06-25 02:51:25
+Session started - 2017-06-25 03:00:02
+Session started - 2017-06-25 03:02:08
+Session started - 2017-06-25 03:14:05
+Wrong login data!
+
+Session ended - 2017-06-25 03:14:16
+--------------------
+
+Session started - 2017-06-25 03:14:38
+Session started - 2017-06-25 03:15:05
+Session started - 2017-06-25 03:15:30
+Wrong login data!
+
+Session ended - 2017-06-25 03:15:41
+--------------------
+
+Session started - 2017-06-25 03:16:40
+Wrong login data!
+
+Session ended - 2017-06-25 03:16:50
+--------------------
+
+Session started - 2017-06-25 03:21:26
+Session started - 2017-06-25 03:22:14
+Session started - 2017-06-25 03:27:47
+Session started - 2017-06-25 03:29:10
+Wrong login data!
+
+Session ended - 2017-06-25 03:29:22
+--------------------
+
+Session started - 2017-06-25 03:29:30
+Wrong login data!
+
+Session ended - 2017-06-25 03:29:41
+--------------------
+
+Session started - 2017-06-25 03:30:20
+Session started - 2017-06-25 03:32:07
+Session started - 2017-06-25 03:32:29
+Session started - 2017-06-29 17:20:43
+Session started - 2017-06-29 17:22:17
+Session started - 2017-06-29 17:24:54
+Wrong login data!
+
+Session ended - 2017-06-29 17:25:03
+--------------------
+
+Session started - 2017-06-29 17:25:33
+Wrong login data!
+
+Session ended - 2017-06-29 17:25:38
+--------------------
+
+Session started - 2017-06-29 17:25:45
+Wrong login data!
+
+Session ended - 2017-06-29 17:25:52
+--------------------
+
+Session started - 2017-06-29 17:26:24
+Wrong login data!
+
+Session ended - 2017-06-29 17:26:32
+--------------------
+
+Session started - 2017-06-29 17:27:37
+Logged in successfully!
+Tag [1/[]]--> b'car'
+[1/10]https://www.instagram.com/p/BV7KbkQjc6z/?tagged=car
+[2/10]https://www.instagram.com/p/BVzzaVQj0Ix/?tagged=car
+[3/10]https://www.instagram.com/p/BV7Org1nY3f/?tagged=car
+[4/10]https://www.instagram.com/p/BV7Fg9ABEWG/?tagged=car
+[5/10]https://www.instagram.com/p/BV7KGMslCoo/?tagged=car
+[6/10]https://www.instagram.com/p/BV7Qm1HhB_W/?tagged=car
+[7/10]https://www.instagram.com/p/BV7FnP9ghzC/?tagged=car
+[8/10]https://www.instagram.com/p/BV7MZbKF794/?tagged=car
+[9/10]https://www.instagram.com/p/BV7bG61lA8v/?tagged=car
